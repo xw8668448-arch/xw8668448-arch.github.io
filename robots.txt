@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xw8668448-arch.github.io/sitemap.xml
